@@ -9,15 +9,59 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-cpp 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[libPhenom：Facebook开源的高性能 C 语言并发编程框架](http://hao.jobbole.com/libphenom/)》
-  - 《[OpenFrameworks：一个用C++编码的跨平台开源工具包](http://hao.jobbole.com/openframeworks/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://www.importnew.com/)。可参考已整理的内容：
+  - 《[libPhenom：Facebook开源的高性能 C 语言并发编程框架](http://www.importnew.com/libphenom/)》
+  - 《[OpenFrameworks：一个用C++编码的跨平台开源工具包](http://www.importnew.com/openframeworks/)》
+
+* * *
+
+### 目录
+* [标准库](#标准库)
+* [框架](#框架)
+* [人工智能](#人工智能)
+* [异步事件循环](#异步事件循环)
+* [音频](#音频)
+* [生态学](#生态学)
+* [压缩](#压缩)
+* [并发性](#并发性)
+* [容器](#容器)
+* [密码学](#密码学)
+* [数据库](#数据库)
+* [调试](#调试)
+* [游戏引擎](#游戏引擎)
+* [图形用户界面](#图形用户界面)
+* [图形](#图形)
+* [图像处理](#图像处理)
+* [国际化](#国际化)
+* [Json](#Json)
+* [日志](#日志)
+* [机器学习](#机器学习)
+* [数学](#数学)
+* [多媒体](#多媒体)
+* [网络](#网络)
+* [物理学](#物理学)
+* [机器人学](#机器人学)
+* [科学计算](#科学计算)
+* [脚本](#脚本)
+* [序列化](#序列化)
+* [视频](#视频)
+* [虚拟机](#虚拟机)
+* [Web应用框架](#Web应用框架)
+* [XML](#XML)
+* [多项混杂](#多项混杂)
+* [软件](#软件)
+* [编译器](#编译器)
+* [在线编译器](#在线编译器)
+* [调试器](#调试器)
+* [集成开发环境（IDE）](#集成开发环境（IDE）)
+* [构建系统](#构建系统)
+* [静态代码分析](#静态代码分析)
 
 * * *
 
 ### 如何参与本项目？
 
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
+<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
 
 不过加入前，有几个小要求：
 
@@ -25,6 +69,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * 有 C++ 开发经验；
 
 如有兴趣，请加 QQ：50872495。加 Q 时请注明「C++大全」
+ -->
 
 * * *
 
@@ -32,13 +77,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、[云中游](http://www.jobbole.com/members/tonyaaron/)、[冰斌](http://www.jobbole.com/members/libing1209/)、You
+- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、[云中游](http://www.jobbole.com/members/tonyaaron/)、[冰斌](http://www.jobbole.com/members/libing1209/)、[Juliesand](http://www.jobbole.com/members/Juliesh/)、[ZZMarquis](https://github.com/ZZMarquis)、[颜闽辉](https://github.com/yanminhui/)、You
 
 注：名单不分排名，不定期补充更新
 
 * * *
 
-### 奖励计划
+<!-- ### 奖励计划
 
 虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
 
@@ -47,7 +92,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [奖励详情](http://hao.jobbole.com/rewards/)
 
 * * *
-
+ -->
 
 ### 标准库
 
@@ -73,7 +118,7 @@ C++通用框架和库
 *   ffead-cpp：企业应用程序开发框架。[官网](https://github.com/sumeetchhetri/ffead-cpp)
 *   Folly：由Facebook开发和使用的开源C++库。[官网](https://github.com/facebook/folly)
 *   JUCE：包罗万象的C++类库，用于开发跨平台软件。[官网](https://github.com/julianstorer/JUCE)
-*   libPhenom：用于构建高性能和高度可扩展性系统的事件框架。[官网](https://github.com/facebook/libphenom)
+*   [libPhenom](http://hao.jobbole.com/libphenom/)：用于构建高性能和高度可扩展性系统的事件框架。[官网](https://github.com/facebook/libphenom)、[GitHub](https://github.com/facebook/libphenom)
 *   LibSourcey：用于实时的视频流和高性能网络应用程序的C++11 evented IO。[官网](https://github.com/sourcey/libsourcey)
 *   LibU：C语言写的多平台工具库。[官网](https://github.com/koanlogic/libu)
 *   Loki：C++库的设计，包括常见的设计模式和习语的实现。[官网](http://loki-lib.sourceforge.net/)
@@ -92,14 +137,14 @@ C++通用框架和库
 
 *   btsk：游戏行为树启动器工具。[官网](https://github.com/aigamedev/btsk)
 *   Evolving Objects：基于模板的，ANSI C++演化计算库，能够帮助你非常快速地编写出自己的随机优化算法。[官网](http://eodev.sourceforge.net/)
-*   Neu：C++11框架，编程语言集，用于创建人工智能应用程序的多用途软件系统。[官网](https://github.com/andrometa/neu)
+*   Neu：C++11框架，编程语言集，用于创建人工智能应用程序的多用途软件系统。[官网](https://github.com/JackieXie168/neu)
 
 ### 异步事件循环
 
 *   Boost.Asio：用于网络和底层I/O编程的跨平台的C++库。[官网](http://think-async.com/)
 *   libev：功能齐全，高性能的时间循环，轻微地仿效libevent，但是不再像libevent一样有局限性，也修复了它的一些bug。[官网](http://libev.schmorp.de/)
 *   libevent：事件通知库。[官网](http://libevent.org/)
-*   libuv：跨平台异步I/O。[官网](https://github.com/joyent/libuv)
+*   libuv：跨平台异步I/O。[官网](https://github.com/libuv/libuv)
 
 ### 音频
 
@@ -176,6 +221,7 @@ C++通用框架和库
 *   Nettle：底层的加密库。[官网](http://www.lysator.liu.se/~nisse/nettle/)
 *   OpenSSL：一个强大的，商用的，功能齐全的，开放源代码的加密库。[官网](http://www.openssl.org/)
 *   Tiny AES128 in C：用C实现的一个小巧，可移植的实现了AES128ESB的加密算法。[官网](https://github.com/kokke/tiny-AES128-C)
+*   GmSSL：支持国密SM2/SM3/SM4算法的OpenSSL分支。[官网](https://github.com/guanzhi/GmSSL)
 
 ### 数据库
 
@@ -244,7 +290,7 @@ C++通用框架和库
 
 ### 图像处理
 
-*   Boost.GIL：通用图像库。[官网](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html)
+*   [Boost.GIL](http://hao.jobbole.com/boost-gil/)：通用图像库。[官网](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html)
 *   CImg：用于图像处理的小型开源C++工具包。[官网](http://cimg.sourceforge.net/)
 *   CxImage：用于加载，保存，显示和转换的图像处理和转换库，可以处理的图片格式包括 BMP, JPEG, GIF, PNG, TIFF, MNG, ICO, PCX, TGA, WMF, WBMP, JBG, J2K。[官网](http://www.xdp.it/cximage.htm)
 *   FreeImage：开源库，支持现在多媒体应用所需的通用图片格式和其他格式。[官网](http://freeimage.sourceforge.net/)
@@ -280,6 +326,7 @@ C++通用框架和库
 *   QJson：将JSON数据映射到QVariant对象的基于Qt的库。[官网](https://github.com/flavio/qjson)
 *   RapidJSON：用于C++的快速JSON 解析生成器，包含SAX和DOM两种风格的API。[官网](https://github.com/miloyip/rapidjson)
 *   YAJL：C语言中快速流JSON解析库。[官网](https://github.com/lloyd/yajl)
+*   json：一个现代 C++ JSON解析库。语法更直观，集成更简单，经过严格测试的同时对内存效率、速度有深入地考虑。[官网](https://github.com/nlohmann/json)
 
 ### 日志
 
@@ -287,6 +334,7 @@ C++通用框架和库
 *   easyloggingpp：C++日志库，只包含单一的头文件。[官网](https://github.com/easylogging/easyloggingpp)
 *   Log4cpp：一系列C++类库，灵活添加日志到文件，系统日志，IDSA和其他地方。[官网](http://log4cpp.sourceforge.net/)
 *   templog：轻量级C++库，可以添加日志到你的C++应用程序中。[官网](http://www.templog.org/)
+*   spdlog：高性能，只包含头文件。[官网](https://github.com/gabime/spdlog)
 
 ### 机器学习
 
@@ -320,7 +368,7 @@ C++通用框架和库
 
 ### 网络
 
-*   ACE：C++面向对象网络变成工具包。[官网](http://www.cs.wustl.edu/~schmidt/ACE.html)
+*   ACE：C++面向对象网络编程工具包。[官网](http://www.cs.wustl.edu/~schmidt/ACE.html)
 *   Boost.Asio：用于网络和底层I/O编程的跨平台的C++库。[官网](http://think-async.com/)
 *   Casablanca：C++ REST SDK。[官网](http://casablanca.codeplex.com/)
 *   cpp-netlib：高级网络编程的开源库集合。[官网](http://cpp-netlib.org/)
@@ -338,6 +386,10 @@ C++通用框架和库
 *   ZeroMQ：高速，模块化的异步通信库。[官网](http://zeromq.org/)
 
 ### 物理学
+
+粒子物理
+
+*   Geant4: 粒子探测器模拟引擎。[官网](http://geant4.web.cern.ch)
 
 动力学仿真引擎
 
@@ -476,6 +528,7 @@ C/C++编译器列表
 *   Compiler Explorer：交互式编译器，可以进行汇编输出。[官网](http://gcc.godbolt.org/)
 *   CompileOnline：Linux上在线编译和执行C++程序。[官网](http://www.compileonline.com/compile_cpp11_online.php)
 *   Ideone：一个在线编译器和调试工具，允许你在线编译源代码并执行，支持60多种编程语言。[官网](http://ideone.com/)
+*   C++ Shell:一个非常简单方便,不需要注册的C++在线编译器,可以显示编译信息,允许使用不同的C++标准,不同的优化选项,并支持stdio.[官网](http://cpp.sh)
 
 ### 调试器
 
@@ -522,11 +575,11 @@ C/C++集成开发环境列表
 
 提高质量，减少瑕疵的代码分析工具列表
 
-*   Cppcheck：静态C/C++代码分析工具。[官网](http://cppcheck.sourceforge.net/)
-*   include-what-you-use：使用clang进行代码分析的工具，可以#include在C和C++文件中。[官网](https://code.google.com/p/include-what-you-use/)
+*   [Cppcheck](http://hao.jobbole.com/cppcheck/)：静态C/C++代码分析工具。[官网](http://cppcheck.sourceforge.net/)
+*   [include-what-you-use](http://hao.jobbole.com/include-what-you-use/)：使用clang进行代码分析的工具，可以#include在C和C++文件中。[官网](https://code.google.com/p/include-what-you-use/)
 *   OCLint：用于C，C++和Objective-C的静态源代码分析工具，用于提高质量，减少瑕疵。[官网](http://oclint.org/)
-*   Clang Static Analyzer：查找C，C++和Objective-C程序bug的源代码分析工具。[官网](http://clang-analyzer.llvm.org/index.html)
-*   List of tools for static code analysis：来自维基百科的静态代码分析工具列表。[官网](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B)
+*   [Clang Static Analyzer](http://hao.jobbole.com/clang-static-analyzer/)：查找C，C++和Objective-C程序bug的源代码分析工具。[官网](http://clang-analyzer.llvm.org/index.html)
+*   静态代码分析工具清单（[开源篇](http://hao.jobbole.com/static_code_analysis_tool_list_opensource/)）：来自维基百科的静态代码分析工具列表。[官网](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B)
    
 
 <h3 id="weibo-weixin">微信公众号</h3>
